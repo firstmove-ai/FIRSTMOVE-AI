@@ -1,0 +1,6 @@
+{
+  "name": "ClientZero AI — AI Money Guide",
+  "description": "A practical €11 digital e-book teaching real, repeatable AI money-making skills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
